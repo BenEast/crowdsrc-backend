@@ -1,0 +1,13 @@
+argon2-cffi
+bcrypt
+requests
+django
+django-auditlog
+django-cors-headers
+django-filter
+djangorestframework
+djangorestframework-jwt
+Pillow
+numpy
+pandas
+rest-pandas
